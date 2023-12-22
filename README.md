@@ -15,11 +15,11 @@ make -j `nproc`
 Details are [here](https://github.com/hd-zero/hdzero-goggle?tab=readme-ov-file#native-setup)
 
 ## Running
-
+```
 copy sdcard/develop.sh into sdcard root
 copy out/HDZGOGGLE into sdcard root
 copy somewhere/on/the/Internet/doom.wad into sdcard root
-
+```
 # Turn on your goggle and get this:
 
 ![screenshot](docs/hdzero_doom.png)
